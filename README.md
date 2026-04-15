@@ -20,6 +20,10 @@ QUARANTINE_DAYS=30 ./npm-install-safe.sh
 ./npm-install-safe.sh -g @mariozechner/pi-coding-agent
 ```
 
+## How it works
+
+Read the fricking [script](npm-install-safe.sh), it's 11 lines.
+
 ## Requirements
 
 - npm
