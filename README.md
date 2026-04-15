@@ -14,6 +14,12 @@ Set `QUARANTINE_DAYS` to be even more paranoid:
 QUARANTINE_DAYS=30 ./npm-install-safe.sh
 ```
 
+## Example
+
+```sh
+./npm-install-safe.sh -g @mariozechner/pi-coding-agent
+```
+
 ## Requirements
 
 - npm
